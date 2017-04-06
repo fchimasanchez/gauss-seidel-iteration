@@ -1,3 +1,7 @@
+## Author: Francisco Chima Sanchez
+## Created: 2016-03-10
+## Last Modified: 2017-04-05
+
 # This script demonstrates Gauss-Seidel iteration applied to a 3 by 3 linear system of equations. The algorithm
 # is iterated until the square root of mean square error between the actual solution and the result is less than $10^{-5}$
 
